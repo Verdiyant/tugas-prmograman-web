@@ -1,0 +1,14 @@
+.danda {
+    margin-top: 145px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 700;
+    display: flex;
+    justify-content: center; /* Pusat secara horizontal */
+    align-items: center; /* Pusat secara vertikal */
+    position: absolute; /* Agar elemen bisa menutupi seluruh layar */
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    color: aliceblue;
+}
